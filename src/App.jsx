@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   const name = 'John';
-  const age = 37;
+  const age = 36;
 
   const sentence = (
     <div>{name} is {age} years old</div>
